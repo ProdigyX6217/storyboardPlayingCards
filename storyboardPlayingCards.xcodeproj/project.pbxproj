@@ -13,6 +13,7 @@
 		4D4CC15B28BC46FA00B156A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4CC15928BC46FA00B156A6 /* Main.storyboard */; };
 		4D4CC15D28BC470300B156A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D4CC15C28BC470300B156A6 /* Assets.xcassets */; };
 		4D4CC16028BC470300B156A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4CC15E28BC470300B156A6 /* LaunchScreen.storyboard */; };
+		4D63450028BEC4970049A9EE /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6344FF28BEC4970049A9EE /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4D4CC15C28BC470300B156A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D4CC15F28BC470300B156A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D4CC16128BC470300B156A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D6344FF28BEC4970049A9EE /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4D4CC15328BC46FA00B156A6 /* AppDelegate.swift */,
 				4D4CC15528BC46FA00B156A6 /* SceneDelegate.swift */,
 				4D4CC15728BC46FA00B156A6 /* CardSelectionVC.swift */,
+				4D6344FF28BEC4970049A9EE /* Card.swift */,
 				4D4CC15928BC46FA00B156A6 /* Main.storyboard */,
 				4D4CC15C28BC470300B156A6 /* Assets.xcassets */,
 				4D4CC15E28BC470300B156A6 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				4D4CC15828BC46FA00B156A6 /* CardSelectionVC.swift in Sources */,
 				4D4CC15428BC46FA00B156A6 /* AppDelegate.swift in Sources */,
 				4D4CC15628BC46FA00B156A6 /* SceneDelegate.swift in Sources */,
+				4D63450028BEC4970049A9EE /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
